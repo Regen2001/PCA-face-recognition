@@ -2,4 +2,4 @@
 
 XJTLU INT304 assignment 1
 
-一个简单的基于PCA算法实现的人脸识别程序, 并通过attface数据集验证. 使用了sklearn库来实现PCA算法, KNN分类器
+A simple face recognition program implemented based on PCA algorithm and validated with attface dataset. The sklearn library is used to implement the PCA algorithm, and the KNN classifier is used to implement the PCA algorithm.
